@@ -1,9 +1,9 @@
-package com.jpmc.cct.fctm.controller;
+package com.learning.rama.kafka.controller;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.jpmc.cct.fctm.model.UserRequest;
-import com.jpmc.cct.fctm.service.Producer;
+import com.learning.rama.kafka.model.UserRequest;
+import com.learning.rama.kafka.service.Producer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,8 +1,8 @@
-package com.jpmc.cct.fctm.service;
+package com.learning.rama.kafka.service;
 
 import com.google.gson.Gson;
-import com.jpmc.cct.fctm.model.Transactions;
-import com.jpmc.cct.fctm.model.UserRequest;
+import com.learning.rama.kafka.model.Transactions;
+import com.learning.rama.kafka.model.UserRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.kafka.support.KafkaHeaders;

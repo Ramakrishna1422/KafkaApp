@@ -1,4 +1,4 @@
-package com.jpmc.cct.fctm;
+package com.learning.rama.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

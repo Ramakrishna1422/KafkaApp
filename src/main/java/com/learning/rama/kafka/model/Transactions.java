@@ -1,4 +1,4 @@
-package com.jpmc.cct.fctm.model;
+package com.learning.rama.kafka.model;
 
 public class Transactions {
 
